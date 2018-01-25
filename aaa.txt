@@ -3,3 +3,4 @@ asdfasdf
 new content
 try again from github desktop version to do git commit and git push
 this time try everything from my surface's sourcetree
+thistime it shows first time usage of sourcetree will pop up a kuang it shows that you have to login with a username and password for a github account
